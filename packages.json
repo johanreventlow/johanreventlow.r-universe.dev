@@ -8,5 +8,9 @@
         "package": "BFHtheme",
         "url": "https://github.com/johanreventlow/BFHtheme",
         "branch": "*release"
+    },
+    {
+        "package": "BFHllm",
+        "url": "https://github.com/johanreventlow/BFHllm"
     }
 ]
