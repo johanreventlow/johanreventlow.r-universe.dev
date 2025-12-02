@@ -1,13 +1,11 @@
 [
     {
         "package": "BFHcharts",
-        "url": "https://github.com/johanreventlow/BFHcharts",
-        "branch": "*release"
+        "url": "https://github.com/johanreventlow/BFHcharts"
     },
     {
         "package": "BFHtheme",
-        "url": "https://github.com/johanreventlow/BFHtheme",
-        "branch": "*release"
+        "url": "https://github.com/johanreventlow/BFHtheme"
     },
     {
         "package": "BFHllm",
