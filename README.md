@@ -13,17 +13,17 @@ options(repos = c(
   CRAN = 'https://cloud.r-project.org'
 ))
 
-# Install BFHcharts
+# Install packages
 install.packages('BFHcharts')
-
-# Install BFHtheme
 install.packages('BFHtheme')
+install.packages('BFHllm')
 ```
 
 ## Packages
 
 - **[BFHcharts](https://github.com/johanreventlow/BFHcharts)** - SPC visualization for healthcare quality improvement
 - **[BFHtheme](https://github.com/johanreventlow/BFHtheme)** - Hospital branding theme for ggplot2
+- **[BFHllm](https://github.com/johanreventlow/BFHllm)** - LLM integration framework for AI-driven insights
 
 ## Dashboard
 
@@ -31,7 +31,7 @@ View package status and documentation at: https://johanreventlow.r-universe.dev
 
 ## About
 
-This universe automatically builds and distributes R packages from GitHub releases. Packages are built on multiple platforms (Windows, macOS, Linux) and updated automatically when new releases are tagged.
+This universe automatically builds and distributes R packages from GitHub. Packages are built on multiple platforms (Windows, macOS, Linux) and updated automatically when changes are pushed.
 
 ---
 
